@@ -36,8 +36,12 @@
 }
 
 .timer_Container h1 {
-    font-size: 3rem;
-    font-weight: 100;
+    font-size: 2.4rem;
+    font-weight: 400;
+    border-radius: 50px;
+    padding: 0.6rem 1.7rem;
+    background-color: rgb(227, 224, 224);
+    color: black;
 }
 
 .timer {
