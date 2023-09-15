@@ -1,0 +1,69 @@
+.counter_container {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.Logout_container {
+    width: 100%;
+    height: 20%;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+.Logout_container button {
+    margin-right: 4rem;
+    padding: 0.7rem 1.2rem;
+    font-size: 1rem;
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+}
+
+.timer_Container {
+
+    width: 300px;
+    height: 300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-top: 2rem;
+    border-radius: 30%;
+}
+
+.timer_Container h1 {
+    font-size: 3rem;
+    font-weight: 100;
+}
+
+.timer {
+    font-size: 6rem;
+}
+
+.timer_btns {
+    width: 80%;
+    height: 20%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 1.3rem;
+}
+
+.timer_btns button {
+    font-size: 1rem;
+    padding: 0.8rem 1.5rem;
+    background-color: blueviolet;
+    color: white;
+    border: none;
+    border-radius: 20px;
+
+}
+
+.breaktimer button {
+    background-color: rgb(234, 113, 203);
+
+}
